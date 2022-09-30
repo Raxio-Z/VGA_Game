@@ -3,7 +3,7 @@
 
 旋转木板弹球
 
-器材：XIlinx FPGA，VGA，颜色传感器，旋转编码器
+器材：Xilinx FPGA，VGA，颜色传感器，旋转编码器
 
 语言： Verilog
 
